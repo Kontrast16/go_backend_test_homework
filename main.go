@@ -12,9 +12,6 @@ func main() {
 	fmt.Println("Я домашка")
 }
 
-//dsadascsac
+//NEW UPDATE OMGGGG
 
-//ssss
-
-
-//ASDASDASD
+//UPDATI MISSING
